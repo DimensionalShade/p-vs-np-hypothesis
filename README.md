@@ -88,4 +88,4 @@ Hence:
 P \ne NP
 \]
 
-This is not a formal proof in the sense of resolving the Millennium Problem, but a structural impossibility argument grounded in complexity theory.
+This is argument grounded in complexity theory.
